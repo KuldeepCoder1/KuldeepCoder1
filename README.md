@@ -1,8 +1,12 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m @Kuldeep(Phantom)
 - 👀 I’m interested in Software Development & Learning+Implementing latest technologies!
 - 🌱 I have read 150+ novels in total & have passion for both technical & creative writing...
 - 💞️ Feel free to contact me on kuldeepguptaee@gmail.com for collaborations/offers
 - 📫 Let's Design Something Together & Develop Worth Looking Back :)
+- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 <!---
 KuldeepCoder1/KuldeepCoder1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
