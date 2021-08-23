@@ -6,6 +6,7 @@
 - 💞️ Feel free to contact me on kuldeepguptaee@gmail.com for collaborations/offers
 - 📫 Let's Design Something Together & Develop Worth Looking Back :)
  ![](code.gif)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!---
 KuldeepCoder1/KuldeepCoder1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
