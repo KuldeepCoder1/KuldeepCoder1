@@ -5,8 +5,7 @@
 - 🌱 I have read 150+ novels in total & have passion for both technical & creative writing...
 - 💞️ Feel free to contact me on kuldeepguptaee@gmail.com for collaborations/offers
 - 📫 Let's Design Something Together & Develop Worth Looking Back :)
-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
+ ![](code.gif)
 
 <!---
 KuldeepCoder1/KuldeepCoder1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
